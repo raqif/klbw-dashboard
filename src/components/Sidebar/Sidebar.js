@@ -42,11 +42,12 @@ function Sidebar({ color, image, routes }) {
             className="simple-text logo-mini mx-1"
           >
             <div className="logo-img">
-              <img src={require("assets/img/reactlogo.png")} alt="..." />
+              <img src={require("assets/img/klbw.png")} alt="..." />
             </div>
           </a>
-          <a className="simple-text" href="http://www.creative-tim.com">
-            Creative Tim
+          {/* <a className="simple-text" href="http://www.creative-tim.com"> */}
+          <a className="simple-text" href="https://www.google.com/maps/contrib/109919312878555198716">
+            Kek Lapis By Wai
           </a>
         </div>
         <Nav>
